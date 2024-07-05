@@ -1,0 +1,23 @@
+body{
+    
+    width: 103px;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+.row{
+    
+    width: 100px;
+    display: flex;
+}
+.black{
+   
+    height: 15px;
+    width: 40px;
+    background-color: black;
+}
+.white{
+    
+    height: 15px;
+    width: 40px;
+    background-color:white;
+}
